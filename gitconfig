@@ -45,3 +45,6 @@
 
 [branch "master"]
   mergeoptions = --no-edit
+[user]
+	email = bengabay@gmail.com
+	name = Benjamin Gabay
